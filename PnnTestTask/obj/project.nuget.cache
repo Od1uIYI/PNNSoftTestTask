@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LY9DRmzTaxmW/V44BqfQjyyfy1XrIw19GweX6YVe7AvPtvmAsdUp/dNat+qdip1bb4VB0XR47HyBg97AzJZYNg==",
+  "success": true,
+  "projectFilePath": "G:\\Users\\Мустафа\\source\\repos\\PnnTestTask\\PnnTestTask\\PnnTestTask.csproj",
+  "expectedPackageFiles": [
+    "G:\\Users\\Мустафа\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "G:\\Users\\Мустафа\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "G:\\Users\\Мустафа\\.nuget\\packages\\system.text.json\\8.0.2\\system.text.json.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
